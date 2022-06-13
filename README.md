@@ -38,8 +38,8 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
    - Pokemon (`abstract`)
    - FirePokemon
    - WaterPokemon
-   - GrassPokemon
-   - ElectricPokemon
+   - FirePokemon.GrassPokemon
+   - Main.ElectricPokemon
    - PokemonGym (`interface`)
    - PokemonGymImpl
    - PokemonGymOwner
